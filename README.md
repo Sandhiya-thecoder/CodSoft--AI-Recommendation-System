@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/AI-Minimal%20ML%20Project-purple">
-  <img src="https://img.shields.io/badge/Level-Basic%20Python%20Completed-brightgreen">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Mode-black">
+  <img src="https://img.shields.io/badge/Level-Python-blue">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
 
 ---
