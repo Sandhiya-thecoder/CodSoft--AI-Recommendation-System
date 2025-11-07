@@ -1,8 +1,4 @@
-Perfect 🔥 Here’s your **dark-themed all-in-one README.md** — ready to copy and paste directly into your project folder or GitHub repo.
 
----
-
-````markdown
 <h1 align="center">🌌 Movie Recommendation System 🎬</h1>
 
 <p align="center">
